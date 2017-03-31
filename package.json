@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "url": "git+https://github.com/evansendra/mingit.git",
+    "url": "git+https://github.com/oscar-87/mingit.git",
     "type": "git"
   },
   "keywords": [
@@ -26,9 +26,9 @@
   "author": "Evan Sendra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/evansendra/mingit/issues"
+    "url": "https://github.com/oscar-87/mingit/issues"
   },
-  "homepage": "https://github.com/evansendra/mingit#readme",
+  "homepage": "https://github.com/oscar-87/mingit#readme",
   "dependencies": {
     "fs-extra": "",
     "homedir": ""
